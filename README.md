@@ -11,7 +11,7 @@ Deployed on
 and
 [Mongodb-atlas](https://mongodb.com/atlas/database)
 
-[Demo](https://javascriptnotesfront.herokuapp.com/)
+##### [Demo](https://javascriptnotesfront.herokuapp.com/)
 HOME                       |  Notes                    | Settings
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](demo/demo1.png)        |  ![](demo/demo2.png)      | ![](demo/demo3.png)
@@ -32,8 +32,8 @@ Backend:
 
 ## Learn how to do 
 
-<a style="text-align:center" href="https://go.hotmart.com/P66380356P">
-<img border="0" alt="Onebitcode" src="https://programador.onebitcode.com/images/JS-logo-darkbg.png" width="50%" >
+<a href="https://go.hotmart.com/P66380356P">
+<img border="0" alt="Onebitcode" src="https://programador.onebitcode.com/images/JS-logo-darkbg.png" width="50%" style="margin: auto; display: block;">
 </a>
 
 ###### **Portuguese language
