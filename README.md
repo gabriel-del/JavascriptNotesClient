@@ -26,9 +26,10 @@ yarn install
 yarn run start
 ```
 
-#### Configure the backend
+Backend:
 [https://github.com/gabriel-del/JavascriptNotesApi](https://github.com/gabriel-del/JavascriptNotesApi)
 
 
-## Learn how to do (portuguese)
-[ ![](https://programador.onebitcode.com/images/JS-logo-darkbg.png) ](https://go.hotmart.com/P66380356P)
+## Learn how to do 
+[ ![](https://programador.onebitcode.com/images/JS-logo-darkbg.png | width=50% ) ](https://go.hotmart.com/P66380356P)
+*(portuguese)
