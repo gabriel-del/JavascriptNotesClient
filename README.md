@@ -32,9 +32,9 @@ Backend:
 
 ## Learn how to do 
 
-<a href="https://go.hotmart.com/P66380356P">
+<a style="text-align:center" href="https://go.hotmart.com/P66380356P">
 <img border="0" alt="Onebitcode" src="https://programador.onebitcode.com/images/JS-logo-darkbg.png" width="50%" >
 </a>
 
-*(portuguese)
+###### **Portuguese language
 
