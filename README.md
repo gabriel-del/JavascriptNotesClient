@@ -34,7 +34,7 @@ Backend:
 
 <p align="center">
 <a href="https://go.hotmart.com/P66380356P">
-<img border="0" alt="Onebitcode" src="https://programador.onebitcode.com/images/JS-logo-darkbg.png" width="50%">
+<img border="0" alt="Onebitcode" src="demo/banner.png" width="50%">
 </a>
 </p>
 
