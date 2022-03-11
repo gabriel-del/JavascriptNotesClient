@@ -31,5 +31,9 @@ Backend:
 
 
 ## Learn how to do 
-[ ![](https://programador.onebitcode.com/images/JS-logo-darkbg.png | width=50% ) ](https://go.hotmart.com/P66380356P)
+<div style="width: 50%">  
+[ ![](https://programador.onebitcode.com/images/JS-logo-darkbg.png ) ](https://go.hotmart.com/P66380356P)
+</div>
+
 *(portuguese)
+
