@@ -1,4 +1,4 @@
-# Notepad
+# Notepad Frontend
 
 Notepad built using
 [React](https://reactjs.org/)
