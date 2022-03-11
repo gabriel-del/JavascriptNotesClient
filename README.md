@@ -25,3 +25,6 @@ git clone https://github.com/gabriel-del/JavascriptNotesClient && cd JavascriptN
 yarn install
 yarn run start
 ```
+
+## Learn
+[Learn how to do ![](https://programador.onebitcode.com/images/JS-logo-darkbg.png) ](https://go.hotmart.com/P66380356P)
