@@ -7,14 +7,16 @@ on frontend and
 on backend.
 
 Deployed on
-[Heroku](https://heroku.com]
+[Heroku](https://heroku.com)
 and
 [Mongodb-atlas](https://mongodb.com/atlas/database)
 
 [Demo](https://javascriptnotesfront.herokuapp.com/)
-![demo1](demo/demo1.png)
-![demo2](demo/demo2.png)
-![demo3](demo/demo3.png)
+HOME                       |  Notes                    | Settings
+:-------------------------:|:-------------------------:|:-------------------------:
+![](demo/demo1.png)        |  ![](demo/demo2.png)      | ![](demo/demo3.png)
+
+
 
 ## Run locally
 
